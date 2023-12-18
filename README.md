@@ -1,9 +1,14 @@
 <h1  align="center" dir="auto">Welcome to Nour Kayyali's Full-Stack Playground  👋 </h1>
 
 <p align="center" dir="auto">
-  <a href="https://www.linkedin.com/in/nour-kayyali-1991ky/" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="CodePen" data-canonical-src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&amp;logo=codepen&amp;logoColor=white" style="max-width: 100%;"></a>&nbsp;
-  <a href="nourkayyali91@gmail.com" rel="nofollow"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" data-canonical-src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&amp;logo=dev.to&amp;logoColor=white alt=" style="max-width: 100%;"></a>&nbsp;
-  <a href="" rel="nofollow"><img src="https://camo.githubusercontent.com/3166ce113b2eb6ee1d99d041a39efc3e9a254d18bd3aec41fbf061b0496f7aa3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f504f5254464f4c494f2d4343363639393f7374796c653d666f722d7468652d6261646765266c6f676f436f6c6f723d776869746520616c743d" data-canonical-src="https://img.shields.io/badge/PORTFOLIO-CC6699?style=for-the-badge&amp;logoColor=white alt=" style="max-width: 100%;"></a>&nbsp;
+   <a href="https://www.linkedin.com/in/nour-kayyali-1991ky/" rel="nofollow">
+   <img align="center" alt="Nour Kayyali | Linkedin " width="40px" src="http://www.prepare1.com/wp-content/uploads/2014/04/linkedin-logo-high-res-1254-1024x1024.jpg"/>
+     </a>
+  
+  <a href="nourkayyali91@gmail.com" rel="nofollow">
+    <img align="center" alt="Nour Kayyali | Gmail " width="50px"  src="https://logowik.com/content/uploads/images/gmail-new-icon5198.jpg"/>
+  </a>
+ 
 <!--
 **NourKy/Nourky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
